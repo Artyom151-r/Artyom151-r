@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="center">чем планирую научиться пользоваться в скором времени⏰</h2>
+<h2 align="center">Чем планирую научиться пользоваться в скором времени⏰</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,figma,blender,unreal">
 </p>
