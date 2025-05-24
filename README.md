@@ -32,3 +32,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dimentiy&color=blueviolet&style=flat-square" alt="Profile views">
 </p> 
+
+
+P.S. (Я не успел сделать 2FA, и теперь это мой основной аккаунт)
