@@ -7,7 +7,7 @@
 
 <h2 align="center">Языки программирования, которые я знаю и учу💻</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,py,ts,js,java,rust,c,react">
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,py,ts,js,java,rust,c,php">
 </p>
 <br>
 
